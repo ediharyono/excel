@@ -1,9 +1,12 @@
-<h1>Excel Spreadsheet</h1>
+<h1>Excel Google Spreadsheet</h1>
 
-# Operasi Spreadsheet Akademik
+File excel google spreadsheet disimpan dalam folder-folder https://drive.google.com.
 
-1. Membuat file baru
+# Operasi File Spreadsheet Akademik
+
+1. Membuat file spreadsheet baru
 2. Rename file spreadsheet
+3. Copy file spreadsheet
 
 # Formula Excel Akademik
 
@@ -12,4 +15,12 @@ Contoh File Excel
 
 2. Formulir Ujian Remediasi
 
-3.  
+# Dasar-dasar Extensi
+
+1. Add-On
+2. Macro
+3. Apps Script 
+
+<h1>Excel Micfrosoft Spreadsheet</h1>
+
+File excel Microsoft spreadsheet disimpan dalam folder-folder https://onedrive.live.com.
