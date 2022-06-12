@@ -5,20 +5,26 @@ File excel google spreadsheet disimpan dalam folder-folder https://drive.google.
 
 # Operasi File Spreadsheet Akademik
 
+DASAR-DASAR
 1. Membuat file spreadsheet baru
 2. Rename file spreadsheet
 3. Copy file spreadsheet
 4. Share file spreadsheet
-5. Operasi columnn dan row (filter, copy, delete, insert)
-6. Operasi cell (copy, move)
-7. Properties (text, number...)
+6. Operasi columnn dan row (filter, copy, delete, insert)
+7. Operasi cell (copy, move)
+8. Properties (text, number...)
+10. Mengelola spreadsheet hasil Googleform
 
 # Formula Excel Akademik
 
-Contoh File Excel
-1. File Spreadsheet Ujian
+DASAR-DASAR
+1. Dasar-dasar formula (sum, average, vlookup, importrange)
 
+CONTOH
+Contoh File Spreadsheet dari formulir 
+1. File Spreadsheet Ujian
 2. Formulir Ujian Remediasi
+3. Formulir Perbaikan Nilai
 
 # Dasar-dasar Extensi
 
