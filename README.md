@@ -1,4 +1,5 @@
-<h1>Excel Google Spreadsheet Data Akademik</h1>
+--------------------- GOOGLE WORKSPACE ----------------------
+<h1>A. Excel Google Spreadsheet Data Akademik</h1>
 
 File excel google spreadsheet disimpan dalam folder-folder https://drive.google.com.
 
@@ -24,6 +25,14 @@ Contoh File Excel
 1. Add-On
 2. Macro
 3. Apps Script 
+
+<h2>B. Google Docs Akademik</h1>
+
+1. Membuat file Google Docs
+2. Membuat header footer
+3. Copy data dari spreadsheet
+
+--------------------- ONEDRIVE ----------------------
 
 <h1>Excel Micfrosoft Spreadsheet</h1>
 
