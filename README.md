@@ -7,6 +7,10 @@ File excel google spreadsheet disimpan dalam folder-folder https://drive.google.
 1. Membuat file spreadsheet baru
 2. Rename file spreadsheet
 3. Copy file spreadsheet
+4. Share file spreadsheet
+5. Operasi columnn dan row (filter, copy, delete, insert)
+6. Operasi cell (copy, move)
+7. Properties (text, number...)
 
 # Formula Excel Akademik
 
