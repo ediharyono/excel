@@ -1,3 +1,7 @@
+--------------------- PELATIHAN INTERNAL AKADEMIK -----------
+
+Senin, 13 Juni 2022 Jam 13.00 - 15.00 WIB 
+Selasa, 14 Juni 2022 Jam 13.00 - 15.00 WIB
 --------------------- GOOGLE WORKSPACE ----------------------
 <h1>A. Excel Google Spreadsheet Data Akademik</h1>
 
