@@ -73,3 +73,10 @@ Contoh File Spreadsheet dari formulir Gform
 <h1>Excel Micfrosoft Spreadsheet</h1>
 
 File excel Microsoft spreadsheet disimpan dalam folder-folder https://onedrive.live.com.
+
+TUGAS
+
+1. Buatlah Google Form (lihat spreadsheet data)
+2. Buatlah file jadwal ujian excel
+3. Buatlah file jadwal pengawas
+ 
