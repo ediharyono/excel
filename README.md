@@ -24,20 +24,43 @@ DASAR-DASAR
 DASAR-DASAR
 1. Dasar-dasar formula (sum, average, vlookup, importrange)
 
+a. sum
+b. count
+c. contatenate
+
+d. vlookup
+=VLOOKUP(Q7;kapasitas_ruang!B:E;4;FALSE)
+
+e. importrange
+=IMPORTRANGE("1P-Ouz8eTsnuE4ZQ0DBeAsGeDNYA3wiQC-WCZ6MLzDPU","mahasiswa_no_header!B:J") 
+=IMPORTRANGE("https://docs.google.com/spreadsheets/d/159Z2gyRg1UOeA-hZzolevbT0u5nwPNKtvXE2wZcVlZg/edit?usp=sharing","Form responses 2!H128:H") 
+
 CONTOH
-Contoh File Spreadsheet dari formulir 
-1. Formulir posting lulus https://docs.google.com/spreadsheets/d/159Z2gyRg1UOeA-hZzolevbT0u5nwPNKtvXE2wZcVlZg/edit?usp=sharing 
-3. File Spreadsheet Ujian 
+Contoh File Spreadsheet dari formulir Gform 
+1. Formulir posting lulus
+   https://docs.google.com/spreadsheets/d/159Z2gyRg1UOeA-hZzolevbT0u5nwPNKtvXE2wZcVlZg/edit?usp=sharing 
+2. Data Laporan Kelulusan
+   https://drive.google.com/drive/folders/19AlHRcYn1jKwBSLpFwh-LfRyObHSgrh7?usp=sharing
+3. File Spreadsheet Jadwal Ujian
+   https://docs.google.com/spreadsheets/d/1b-RP1Zv0W2V4WtOlFolDIMuouy4LPVgxi6gcXG2iQXM/edit?usp=sharing (Jadwal)
+   https://docs.google.com/spreadsheets/d/1c_l81-eNBrC3rvQ3OU9z0bhj5IWbTy160ej2GtwhQqc/edit?usp=sharing (Pengawas)
+   https://docs.google.com/spreadsheets/d/1HhrDdQq2B8Q1ziv2bvcfsqQuhrW-LWf_Jpd69jiOmps/edit?usp=sharing (Processing)  
+   
 4. Formulir Ujian Remediasi
-5. Formulir Perbaikan Nilai
+
+5. Formulir Perbaikan Nilai (bit.ly/nilaifti)
+
 6. File excel evira dikti https://docs.google.com/spreadsheets/d/1odGtoxdj49G3kfm-2NJWfhgaCjXK-H_-e40aKDstn5o/edit?usp=sharing 
-7.
+
+7. Formulir keluhan mahasiswa (bit.ly/akademikfti)
 
 # Dasar-dasar Extensi
 
 1. Add-On
+   Autocrate (prosessing ujian), ForLimiter (form posting lulus)
 2. Macro
-3. Apps Script 
+3. Apps Script
+   https://docs.google.com/document/d/11uciEvFE6YJ9hiZ0tVp2JZvRInHDR7417rKehlND4F4/edit?usp=sharing 
 
 <h2>B. Google Docs Akademik</h1>
 
