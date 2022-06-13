@@ -30,6 +30,8 @@ Contoh File Spreadsheet dari formulir
 3. File Spreadsheet Ujian 
 4. Formulir Ujian Remediasi
 5. Formulir Perbaikan Nilai
+6. File excel evira dikti https://docs.google.com/spreadsheets/d/1odGtoxdj49G3kfm-2NJWfhgaCjXK-H_-e40aKDstn5o/edit?usp=sharing 
+7.
 
 # Dasar-dasar Extensi
 
