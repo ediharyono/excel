@@ -1,8 +1,15 @@
 --------------------- PELATIHAN INTERNAL AKADEMIK -----------
+Program Kerja: 
+https://docs.google.com/spreadsheets/d/1PiS5jLkj6L7Urjd1slPw9zEb-ZUzmnswMDo3AB0Y3tk/edit?usp=sharing 
+https://docs.google.com/presentation/d/1HPmtVSUHhPxTRSPVfEwktNBpIcss14qSz0RnR-0w3MI/edit?usp=sharing 
 
 Senin, 13 Juni 2022 Jam 13.00 - 15.00 WIB 
 Selasa, 14 Juni 2022 Jam 13.00 - 15.00 WIB
 --------------------- GOOGLE WORKSPACE ----------------------
+Google Drive
+Google Docs, Google Spreadsheet, Google Slide, Google Form
+-------------------------------------------------------------
+
 <h1>A. Excel Google Spreadsheet Data Akademik</h1>
 
 File excel google spreadsheet disimpan dalam folder-folder https://drive.google.com.
