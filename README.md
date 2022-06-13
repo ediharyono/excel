@@ -26,9 +26,10 @@ DASAR-DASAR
 
 CONTOH
 Contoh File Spreadsheet dari formulir 
-1. File Spreadsheet Ujian
-2. Formulir Ujian Remediasi
-3. Formulir Perbaikan Nilai
+1. Formulir posting lulus https://docs.google.com/spreadsheets/d/159Z2gyRg1UOeA-hZzolevbT0u5nwPNKtvXE2wZcVlZg/edit?usp=sharing 
+3. File Spreadsheet Ujian 
+4. Formulir Ujian Remediasi
+5. Formulir Perbaikan Nilai
 
 # Dasar-dasar Extensi
 
