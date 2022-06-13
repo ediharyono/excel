@@ -1,3 +1,4 @@
+# https://github.com/ediharyono/excel
 --------------------- PELATIHAN INTERNAL AKADEMIK -----------
 Program Kerja: 
 https://docs.google.com/spreadsheets/d/1PiS5jLkj6L7Urjd1slPw9zEb-ZUzmnswMDo3AB0Y3tk/edit?usp=sharing 
